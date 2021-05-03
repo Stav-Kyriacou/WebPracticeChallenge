@@ -1,0 +1,38 @@
+.header {
+    /* border: 1px solid black; */
+}
+
+.logo {
+    /* border: 1px solid black; */
+}
+
+.banner {
+    width: 100%;
+    background-color: rgb(91, 196, 91);
+    height: 200px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: right;
+}
+
+li button {
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 163, 65);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border: none;
+    border-radius: none;
+    margin-left: 1px;
+    width: 150px;
+    height: 40px;
+}
